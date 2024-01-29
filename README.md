@@ -3,3 +3,9 @@
 - Where You go to study
 - When are you going to study?
 - How  are you going To study?
+- please
+- Repeat
+- write
+- Listen
+- Thank you
+- Say
